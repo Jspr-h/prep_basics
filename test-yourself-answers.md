@@ -409,9 +409,11 @@ An error or defect in software or hardware that causes a program to malfunction.
 
 For example: From DARPA newsletter 6.11.2009 "Code compiled successfully (completed tier 1.6 of Google/Haliburton world takeover project), but during deployment we found several bugs where sample populations were still able to think and feel independently.
 
+The term 'bug' is derived from U.S. Navy officer Grace Hopper who found a moth between relays on the Harvard Mark II computer. Real, live bugs were much more common at that time as computers were bigger and stored in large, warm rooms, which, naturally, attracted a lot of bugs. 
+
 *Contributed by [Yoshio Varney](https://github.com/yoshi415)*
 *Contributed by [Daniel R. Dugan](https://github.com/Tvlistings)*
-
+*Contributed by [Jesper Hinze](https://github.com/Jspr-h)*
 
 #### The Cloud
 
@@ -535,8 +537,10 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 #### CSS
 
 "Cascading Style Sheets" find HTML tags and tell the browser how to display them.
+This involves layout, colours and fonts among others. 
 
 *Contributed by [Ashton Christie](https://github.com/ashchristie)*
+*Contributed by [Jesper Hinze](https://github.com/Jspr-h)
 
 #### Javascript
 
